@@ -3,4 +3,4 @@ WeCours English Fluent
 
 ## Components
 
-- [Number](/number)
+- [Number](./number)
